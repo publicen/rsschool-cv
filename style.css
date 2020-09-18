@@ -1,0 +1,40 @@
+main {
+	max-width: 1024px;
+	margin: 50px auto;
+	font-family: Times New Roman,sans-serif;;
+	padding-left: 10px;
+  font-size: 25px;
+  background-color: orange;
+}
+
+.about {
+	text-align: center;
+}
+
+.about img {
+	display: block;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100px;
+	border: 2px solid ;
+}
+
+.name {
+	font-size: 64px;
+	margin-bottom: 5px;
+	margin-top: 15px;
+	color: blue;
+}
+
+.item {
+	margin-top: 30px;
+}
+.item h3 {
+	color: green;
+}
+
+.item p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
