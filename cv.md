@@ -6,6 +6,7 @@ I decided to change the field of activity. I learn programming from scratch. I r
 
 **My Skills:**
 * HTML, CSS;
+* network;
 * c#;
 * SQL.
 
