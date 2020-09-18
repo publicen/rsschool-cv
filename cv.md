@@ -6,6 +6,7 @@ I decided to change the field of activity. I learn programming from scratch. I r
 
 **My Skills:**
 * HTML, CSS;
+* c#;
 * SQL.
 
 **Belarusian State University of Informatics and Radioelectronics**, _faculty_: computer systems and networks
